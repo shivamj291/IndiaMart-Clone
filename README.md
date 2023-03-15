@@ -19,4 +19,5 @@
 # Tech Stacks:- 
        By using the tech HTML,CSS,JAVA-SCRIPT,REST API,LOCAL STORAGE
        
-
+# Pages and Features:- 
+<img src="https://shivam-jaiswal-portfolio.vercel.app/lovoda.gif"/>
