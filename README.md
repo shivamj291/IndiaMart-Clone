@@ -20,4 +20,4 @@
        By using the tech HTML,CSS,JAVA-SCRIPT,REST API,LOCAL STORAGE
        
 # Pages and Features:- 
-<img src="http://localhost:3000/indiamartAnim.gif"/>
+<img src="https://shivam-jaiswal-portfolio.vercel.app/indiamartAnim.gif"/>
