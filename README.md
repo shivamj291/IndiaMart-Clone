@@ -19,5 +19,4 @@
 # Tech Stacks:- 
        By using the tech HTML,CSS,JAVA-SCRIPT,REST API,LOCAL STORAGE
        
- # Pages and Features:- 
-![indiamart](https://user-images.githubusercontent.com/113718053/indiamartAnim.gif)
+
